@@ -24,7 +24,7 @@ Data engineers commonly use **SQL** for **managing and querying** data in tables
 Here's a concise overview of essential data engineering concepts:
 
 1. **Operational vs. Analytical Data**: 
-   - ![Operational vs. Analytical Data](./assets/Operational and analytical data.png)
+   - ![Operational vs. Analytical Data](./unit1-data-engineering-on-azure/assets/Operational%20and%20analytical%20data.png)
    - **Operational data** is transactional, stored in databases, and used by applications.
    - **Analytical data** is optimized for reporting, often in a data warehouse.
    - Data engineers design ETL solutions to integrate and prepare this data for analysis.
