@@ -1,0 +1,5 @@
+| **Data Type**       | **Description**                                                                                   | **Examples**                          | **Diagram**                        |
+|---------------------|---------------------------------------------------------------------------------------------------|---------------------------------------|------------------------------------|
+| **Structured Data** | Organized in tables with consistent rows and columns, making it easily searchable and analyzable. | Relational databases, CSV files       | Table with rows and columns        |
+| **Semi-structured** | Partially organized in hierarchical formats; may require flattening to fit table structures.      | JSON, XML files                       | JSON tree format                   |
+| **Unstructured**    | Lacks predefined structure; stored as files or blobs without a specific schema.                   | PDFs, images, Word documents          | Files or blobs without structure    |
