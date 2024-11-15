@@ -26,7 +26,7 @@ Here's a concise overview of essential data engineering concepts:
 1. **Operational vs. Analytical Data**: 
    - ![Operational vs. Analytical Data](./assets/Operational%20and%20analytical%20data.png)
    - **Operational data** is transactional, stored in databases, and used by applications.
-   - **Analytical data** is optimized for reporting, often in a data warehouse.
+   - **Analytical data** is optimized for analysis and reporting, often in a data warehouse.
    - Data engineers design ETL solutions to integrate and prepare this data for analysis.
 
 2. **Streaming Data**:
