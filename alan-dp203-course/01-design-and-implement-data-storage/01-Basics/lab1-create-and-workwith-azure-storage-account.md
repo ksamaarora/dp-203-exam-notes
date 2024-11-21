@@ -4,6 +4,8 @@
 - A **storage account** is a resource created in Azure to utilize the Azure Storage service.  
 - Resources are organized within **resource groups**, which serve as containers for logically grouping resources. These groups hold all the components of an Azure solution.  
 
+![Storage Account](./assets/createStorageAccount.png)
+
 #### 2. **Azure Data Center and Storage Management**  
 - Storage is hosted in Azure's **data centers**, which are located worldwide.  
 - Azure manages the **physical infrastructure**, ensuring reliability and scalability.  
@@ -40,7 +42,3 @@ print(response)
 ```
 
 - This code uses **Pandas** to fetch data from the given URL and displays it in a readable format.  
-
---- 
-
-Let me know if you’d like to expand on any section!

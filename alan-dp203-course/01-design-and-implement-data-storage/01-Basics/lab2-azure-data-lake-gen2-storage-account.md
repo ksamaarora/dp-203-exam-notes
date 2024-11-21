@@ -13,6 +13,8 @@
   3. Specify the **Region**.  
   4. Choose **Redundancy** (e.g., **LRS** - Locally Redundant Storage).  
 
+![Advances Settings](./assets/createDataLakeGen2Storage.png)
+
 - **Advanced Settings**:  
   - Enable **Hierarchical Namespace**.  
     - This feature is essential for Azure Data Lake Gen2 and adds additional capabilities for file and folder management.  
